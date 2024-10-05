@@ -20,6 +20,3 @@
    ```
    npm run dev
    ```
-
-#V2
-# EmployeeManagementSystemV2
